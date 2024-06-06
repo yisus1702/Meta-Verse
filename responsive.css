@@ -1,0 +1,11 @@
+    .centro {
+
+        display: flex;
+        margin-left: 60px;
+    }
+
+    body{
+        background: rgb(11,9,48);
+background: linear-gradient(90deg, rgba(11,9,48,1) 0%, rgba(34,11,54,1) 35%, rgba(0,0,0,1) 100%);
+    }
+
